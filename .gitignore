@@ -1,0 +1,8 @@
+.classpath
+.project
+.pmd
+.settings/
+target/
+bin/
+gen/
+assets/
